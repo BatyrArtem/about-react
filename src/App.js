@@ -6,9 +6,8 @@ export default function App() {
 
     return(
         <div className='container'>
-        <Main />
-        <Navbar />
+            <Navbar />
+            <Main />
         </div>
-        
     )
 }
