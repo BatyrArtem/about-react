@@ -6,10 +6,12 @@ export default function Navbar(props) {
         <nav 
             className={props.darkMode ? "dark" : ""}
         >
-            <img 
-                src={ReactLogo} 
-                className="nav--icon" 
-            />
+            <a href='https://reactjs.org/'>
+                <img 
+                    src={ReactLogo} 
+                    className="nav--icon" 
+                />
+            </a>
             <h3 className="nav--logo_text">
                 ReactFacts
             </h3>

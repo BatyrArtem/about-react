@@ -11,6 +11,9 @@ export default function Main(props) {
                 <li>Has well over 100K stars on GitHub</li>
                 <li>Is maintained by Facebook</li>
                 <li>Powers thousands of enterprise apps, including mobile apps</li>
+                <li>React is a JavaScript library</li>
+                <li>Keep your components small</li>
+                <li>Virtual DOM is faster than real DOM</li>
             </ul>
         </main>
         
