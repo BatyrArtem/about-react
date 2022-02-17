@@ -14,6 +14,7 @@ export default function Main(props) {
                 <li>React is a JavaScript library</li>
                 <li>Keep your components small</li>
                 <li>Virtual DOM is faster than real DOM</li>
+                <li>Declarative, efficient, and flexible</li>
             </ul>
         </main>
         
